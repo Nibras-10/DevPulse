@@ -1,0 +1,13 @@
+{
+  "users": [],
+  "organizations": [],
+  "memberships": [],
+  "services": [],
+  "monitoringChecks": [],
+  "incidents": [],
+  "incidentEvents": [],
+  "notificationChannels": [],
+  "notificationDeliveries": [],
+  "webhookDeliveries": [],
+  "auditLogs": []
+}

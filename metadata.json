@@ -1,0 +1,6 @@
+{
+  "name": "DevPulse — Incident & Reliability Platform",
+  "description": "Developer incident management, uptime monitoring, reliability metrics, and alerting platform for modern engineering teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
